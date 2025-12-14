@@ -1,4 +1,4 @@
-0   1   1   2   3   5
+
 import java.util.Scanner;
 
 class Fibonacci{
